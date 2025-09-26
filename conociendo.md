@@ -18,6 +18,8 @@
 
 ## CPU:
 ![si](img/6.png)
+![si](img/6.1.png)
+
 
 ## Versión del núcleo y arquitectura:
 ![si](img/7.png)
