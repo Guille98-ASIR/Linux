@@ -1,6 +1,6 @@
 # Linux
 
 
-  [1.-Conociendo el servidor Linux]
+  - [1.-Conociendo el servidor Linux]
   
-  [2.-Autor]
+  - [2.-Autor]
