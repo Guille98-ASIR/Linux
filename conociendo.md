@@ -52,3 +52,12 @@
 
 ## Configuración tradicional DNS:
 ![si](img/14.png)
+
+# Reiniciar la red (Debian sin ENTORNO GRÁFICO utiliza networking):
+![si](img/15.png)
+
+# Si necesitamos bajar o subir una tarjeta de red:
+![si](img/16.png)
+
+# Configuración de la red: Otra forma:
+![si](img/17.png)
