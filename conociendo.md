@@ -35,7 +35,11 @@
 ![si](img/10.png)
 
 ## Usuarios y grupos del sistema:
-![si](img/11.png)
+![si](img/11.1.png)
+![si](img/11.2.png)
+![si](img/11.3.png)
+![si](img/11.4.png)
+![si](img/11.5.png)
 
 ## Información de la red:
 ![si](img/12.png)
