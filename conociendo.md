@@ -30,3 +30,18 @@
 
 ## Sistemas montados
 ![si](img/9.png)
+
+## Tamaño de una carpeta:
+![si](img/10.png)
+
+## Usuarios y grupos del sistema:
+![si](img/11.png)
+
+## Información de la red:
+![si](img/12.png)
+
+## Configuración de la red:
+![si](img/13.png)
+
+## Configuración tradicional DNS:
+![si](img/14.png)
