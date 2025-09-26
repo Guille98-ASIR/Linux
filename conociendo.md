@@ -26,6 +26,7 @@
 
 ## Discos y particiones:
 ![si](img/8.png)
+![si](img/8.1.png)
 
 ## Sistemas montados
 ![si](img/9.png)
