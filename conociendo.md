@@ -2,4 +2,4 @@
 
 ## Nombre del host
 
-![si](img/si.jpg)
+![si](/img/1.jpg)
