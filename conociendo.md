@@ -42,7 +42,10 @@
 ![si](img/11.5.png)
 
 ## Información de la red:
-![si](img/12.png)
+![si](img/12.1.png)
+![si](img/12.2.png)
+![si](img/12.3.png)
+![si](img/12.4.png)
 
 ## Configuración de la red:
 ![si](img/13.png)
